@@ -1,11 +1,10 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## Code Self-Portait for P5.js
+#### by Jingyi Zhao
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
-
+This is a self portait 
 
 ### Technical Details
 
